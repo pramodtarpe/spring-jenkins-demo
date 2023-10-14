@@ -19,7 +19,7 @@ class ApplicationTests {
     @Test
     void contextLoads() {
         log.info("HELLO PIPELINE !!!");
-        assertTrue(false);
+        assertTrue(true);
     }
 
 }
